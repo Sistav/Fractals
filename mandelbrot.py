@@ -1,13 +1,13 @@
 # Program     : Mandlebrot Series
 # Name        : Georgios Dialynas-Vatsis
 # Date        : May 5, 2022
-# Description : Generates mandlebrot fractals with colors depicting the stability of the numbetrs
+# Description : Generates mandlebrot fractals with colors depicting the stability of the numbers
 import tkinter
 from Complex import Complex
 
 # This changes the maximum for the x and y axis, the smaller the number, the more zoomed in the image becomes
-SCALE_WIDTH = 1
-SCALE_HEIGHT = 1
+SCALE_WIDTH = 2
+SCALE_HEIGHT = 2
 
 # Window Width and height
 WIDTH = 800    
