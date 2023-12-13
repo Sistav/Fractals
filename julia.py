@@ -18,8 +18,8 @@ HEIGHT = 800
 ITERATIONS = 100
 
 # change these to change the choice of julia set   
-c_x = -.69
-c_y = .42
+c_x = -.70
+c_y = .40
 
 def tkinter_to_cartesian(x,y):
     # Convert tkinter coordinates to the cartesian plane
