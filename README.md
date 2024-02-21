@@ -1,6 +1,7 @@
 # Fractals
 
-This repository contains Python scripts for generating fractal images, focusing on the Mandelbrot and Julia sets. It features a custom implementation of complex numbers to explore these mathematical concepts visually.
+This repository contains Python scripts for generating fractal images, focusing on the Mandelbrot and Julia sets. 
+It features a custom implementation of complex numbers to explore these mathematical concepts visually.
 
 ## Features
 
